@@ -5,6 +5,11 @@ html, body {
 body{
 	background-color: #ddd;
 }
+
+li {
+	list-style: none;
+}
+
 .container{
 	width: 880px;
 	margin: 50px auto;
@@ -37,3 +42,24 @@ span{
      
 }  
 }
+
+.footer {
+	background-color: #ffff;
+	color: #0000;
+	height: 120px;
+	padding: 40px;
+}
+
+.footer-logo {
+	float: left;
+	font-size: 25px;
+}
+
+.footer-list {
+	float: right;
+}
+
+.footer-list li {
+	padding-bottom: 20px
+}
+		
