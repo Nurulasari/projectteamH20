@@ -45,7 +45,7 @@ span{
 
 .footer {
 	background-color: #ffff;
-	color: #0000;
+	font-color: #0000;
 	height: 120px;
 	padding: 40px;
 }
@@ -60,6 +60,7 @@ span{
 }
 
 .footer-list li {
-	padding-bottom: 20px
+	padding-bottom: 20px;
+	
 }
 		
